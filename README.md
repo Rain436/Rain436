@@ -1,15 +1,43 @@
-<h1 align="center">Hi 👋, I’m Rain</h1>
-<h3 align="center">Enjoy Programmer</h3>
-<h4 align="center">// 。悪魔。//</h4>
+<h2 align="center">❓️Welcome My Profile! 📝</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rain436&label=Profile%20views&color=0e75b6&style=flat" alt="rain436" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rain436" alt="rain436" /></a> </p>
+<p align="left">🔥 i am Enjoy Programmer 🔥</p>
 
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">❓️ - What I mainly make</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rain436&show_icons=true&locale=en" alt="rain436" /></p>
+###
+
+<img align="left" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlVutPKHg1uDC7N2zQDzzw4831nNSLFoMrhg&s"  />
+
+###
+
+<p align="left">⚪️ Roblox Script</p>
+
+###
+
+<p align="left">🔵 Discord Tool</p>
+
+###
+
+<h2 align="center">❓️My Stats 💫</h2>
+
+###
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rain436&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
+</div>
+
+###
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rain436&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Rain436/Rain436/output/snake.svg" alt="Snake animation" />
+
+###
