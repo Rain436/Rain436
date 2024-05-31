@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Discord Tool & Roblox Script<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I Make a Program</p>
 
 ###
 
