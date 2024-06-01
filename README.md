@@ -4,10 +4,8 @@
 
 ###
 
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rain436.Rain436&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rain436.Rain436&right_color=white"  />
 </div>
 
 ###
@@ -24,7 +22,7 @@
 
 ###
 
-<p align="left"><br><br>- 🔭 I’m working as Discord Tool & Roblox Script<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I Make a Program</p>
+<p align="left"> 🔭 I’m working as  Discord Tool & Roblox Script<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I Make a Program</p>
 
 ###
 
