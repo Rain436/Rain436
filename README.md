@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left"> 🔭 I’m working as  Discord Tool & Roblox Script<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I Make a Program</p>
+<p align="left"> 🔭 I’m working as  Discord Tool & Roblox Script & Minecraft Mods<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I Make a Program</p>
 
 ###
 
