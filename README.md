@@ -20,11 +20,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me <3 </h3>
 
 ###
 
-<p align="left">I'm Rain<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...<br>- 🎯 Goal: Create The Discord Tool</p>
+<p align="left">I'm yxxzs<br><br>- 🔭 I’m working as all<br>- 📚 I'm currently learning python<br>- ⚡ In my free time I ...<br>- 🎯 Goal: Create The Discord Tool</p>
 
 ###
 
