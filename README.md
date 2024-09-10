@@ -1,5 +1,4 @@
 <div align="center">
-  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREm_SEHitLCB8zFOuy_1i3e8HOh_W4EPClhA&s"  />
 </div>
 
 ###
